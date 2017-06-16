@@ -105,6 +105,8 @@ config.rules['declaration-block-properties-order'] = [[
   'min-height',
   'max-height',
   'overflow',
+  'overflow-x',
+  'overflow-y',
   'list-style',
   'caption-side',
   'table-layout',
